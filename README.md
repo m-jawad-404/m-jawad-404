@@ -49,17 +49,6 @@ I focus on creating products that are not only functional but **smart, efficient
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=m-jawad-404&show_icons=true&theme=radical&hide_border=true" width="400"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=m-jawad-404&theme=radical&hide_border=true" width="400"/>
-</p>
-
----
-
 ## 🚀 Featured Projects
 
 <p align="center">
