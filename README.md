@@ -35,13 +35,35 @@ I focus on creating products that are not only functional but **smart, efficient
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 </p>
 
+
+### Mobile 
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=black"/>
+</p>
+
+
 ### Backend & AI
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI/ML-000000?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/APIs-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
+
+### Cloud & DevOps
+<p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</p>
+
 
 ### Tools & Workflow
 <p align="left">
@@ -49,18 +71,56 @@ I focus on creating products that are not only functional but **smart, efficient
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
 </p>
 
-## 🚀 Featured Projects
+---
 
-<p align="center">
-  <a href="https://github.com/m-jawad-404/DevBoard">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m-jawad-404&repo=DevBoard&theme=buefy" />
-  </a>
-  <a href="https://github.com/m-jawad-404/DevQuotes">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m-jawad-404&repo=DevQuotes&theme=buefy" />
-  </a>
-</p>
+## 🚀 What I Build
+
+- ✅ SaaS web applications  
+- ✅ Admin dashboards & panels  
+- ✅ Scalable REST APIs  
+- ✅ Frontend systems with strong UX  
+- ✅ Clean, reusable component architecture  
 
 ---
+
+## 🧠 How I Work
+
+- 🔧 I design solutions with scalability, performance, and AI-readiness in mind  
+- 🤖 I integrate AI features to automate workflows and enhance user experience  
+- ⏱️ I focus on clean execution, realistic timelines, and long-term maintainability  
+- 🔍 I keep communication clear and progress transparent  
+- 📁 I maintain well-structured GitHub repositories with readable, documented code  
+
+---
+
+## 📌 Project Highlights
+
+- 🔹 AI-powered web applications and smart dashboards  
+- 🔹 SaaS-style platforms with intelligent automation  
+- 🔹 Frontend-heavy applications with strong UX  
+- 🔹 API-driven systems, AI integrations, and real-time features  
+
+---
+
+## ❌ Not a Fit If…
+
+- ❌ You’re looking outside the JavaScript / TypeScript / AI ecosystem  
+- ❌ You want rushed work instead of clean, scalable solutions  
+- ❌ Your project involves gambling or adult content  
+- ❌ You’re not open to collaboration, iteration, or feedback
+
+---
+
+## 📬 Let’s Connect
+
+If you’re working on a **modern web application** and need a developer who cares about **clean UI, scalable systems, and AI-powered features**, I’d be happy to connect.
+
+- 🚀 Building a SaaS or smart web product?  
+- 🤖 Adding AI features or automation to your app?  
+- 🧩 Need a clean frontend with a solid backend foundation?
+
+**Let’s build something clean, scalable, and impactful.**
+
 
 ## ☕ Connect With Me
 
